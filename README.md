@@ -1,10 +1,24 @@
 # NBA Data Analiz ve Görselleştirmesi
 **Sisterslab** tarafından yürütülen **Woman in Tech Akademi** bitirme ödevi kapsamında NBA veri setleriyle veri analizi ve veri görselleştirmesi yapıldı. 
+**Veri Setleri** 
 - **Games details** veri seti; oyun numarası, takım numarası, hücum ribaundları, serbest atışlar vb gibi bilgileri barındıran,oynanan maçlar hakkında detaylı verilerin bulunduğu bir veri setidir.
 - **Games veri seti**; bir maçtaki ev sahibi takım numarasını, deplasman takım numarasını, deplasman ve ev sahibi takımın puanlarını, yaptıkları serbest atış veya ribaundları bulunduran bir veri setidir.
 - **Players veri seti**; bir oyuncuyu tanımlayan verileri bulunduran veri setidir.
 - **Ranking veri seti**; takımların kazandığı veya kaybettiği maç sayısı vb gibi bilgilerin bulunduğu veri setidir.
 - **Teams veri seti**; takımların kısaltmalarının, arena kapasitelerinin, takım kurucularının bulunduğu bir veri setidir.
+---
+**Önişleme**
+- Veri setlerindeki geçersiz veya boş değerler silindi.
+- Tekrar eden sütunlar veri setlerinden çıkarıldı.
+---
+**Analizler**
+- Maç kazanma yüzdelerine göre en başarılı ve en başarısız takımlar hesaplandı.
+- Toplam takım sayısı tespit edildi.
+- Takımların ev sahibi olduğu maçlarda kazanma ve kaybetme yüzdeleri incelendi.
+- Takımların arena büyüklüklerinin galibiyete etkisi incelendi.
+- Takımların arena kapasitelerinin topladıkları puana olan etkisi incelendi.
+- Takımların serbest atış başarı oranları incelendi.
+- Takımların tüm atışlardaki başarı oranları incelendi.
 ---
 **Grafikler**
 ---
